@@ -1,5 +1,4 @@
-
-#Prueba técnica frontend
+Prueba técnica frontend
 
 Por favor maquete la landing page adjunta a este correo. 
 
